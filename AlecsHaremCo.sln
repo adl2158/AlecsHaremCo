@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlecsHaremCo", "AlecsHaremCo\AlecsHaremCo.csproj", "{2EC7383F-898B-4F4E-8B23-536A92D56005}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlecsHaremCo.Components", "AlecsHaremCo.Components\AlecsHaremCo.Components.csproj", "{BFF2D0FF-C4D7-409C-BE28-8B6D608C1080}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{2EC7383F-898B-4F4E-8B23-536A92D56005}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2EC7383F-898B-4F4E-8B23-536A92D56005}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2EC7383F-898B-4F4E-8B23-536A92D56005}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFF2D0FF-C4D7-409C-BE28-8B6D608C1080}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFF2D0FF-C4D7-409C-BE28-8B6D608C1080}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFF2D0FF-C4D7-409C-BE28-8B6D608C1080}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFF2D0FF-C4D7-409C-BE28-8B6D608C1080}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
